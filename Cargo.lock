@@ -1177,6 +1177,7 @@ dependencies = [
  "wasmer-derive",
  "wasmer-types",
  "wasmer-vm",
+ "wasmparser",
  "wat",
  "windows-sys 0.59.0",
 ]
